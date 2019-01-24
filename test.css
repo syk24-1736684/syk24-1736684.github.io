@@ -1,0 +1,96 @@
+body{
+	background-image: url('dark_wood.png');
+}
+
+P{
+	color: white;
+	font-family: "Arial";
+	font-weight: bold;
+	background-color: #8e41d5;
+}
+
+h3{
+	color: #ffbc00;
+	font-size: 40px;
+	Font-family: "Passion One";
+	margin-bottom: 0px;
+	background-color: #8e41d5;
+}
+
+li{
+	background-color: #8e41d5;
+}
+
+#Header{
+	width: 500px;
+	margin-left: auto;
+	margin-right:auto;
+	margin-bottom: 10px;
+	border: solid 8px black;
+	text-align: center;
+	background-color: #8e41d5;
+}
+
+#Header hl{
+	font-size: 60px;
+	font-family: "Passion One";
+	color: #ffbc00; 
+	font-weight: bold;
+	background-color: #8e41d5;
+
+}
+
+#LeftNav{
+	width: 400px;
+	margin-left: auto;
+	margin-right:auto;
+	margin-bottom: 10px;
+	border: solid 8px black;
+	float: left;
+	text-align: center;
+	padding-bottom: 8px;
+	background-color: #8e41d5;
+}
+
+#LeftNav Img{
+	background-color: #8e41d5;
+}
+
+#LeftNav ul{
+	background-color: #8e41d5;
+}
+
+#LeftNav h3{
+	background-color: #8e41d5;
+}
+
+#Content{
+	width: 700px;
+	margin-left: auto;
+	margin-right:auto;
+	margin-bottom: 10px;
+	border: solid 8px black;
+	text-align: center;
+	padding: 15px;
+	background-color: #8e41d5;
+}
+
+#Footer{
+	border: solid 8px black;
+	text-align: center;
+	background-color: #8e41d5;
+}
+
+ul{
+	list-style-type:none;
+	padding-left: 0px;
+	background-color: #8e41d5;
+}
+
+a {
+	color: white;
+	font-weight: bold;
+	font-size: 24px;
+	background-color: #8e41d5;
+
+}
